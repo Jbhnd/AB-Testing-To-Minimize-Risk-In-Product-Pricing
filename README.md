@@ -1,4 +1,4 @@
-# Strategic Pricing Analysis: Applying A/B Testing To Minimize Risk in Product Pricing and Price Elasticity
+# Strategic Pricing Analysis: Minimizing Risk in Product Pricing and Price Elasticity
 
 ## Executive Summary
 
